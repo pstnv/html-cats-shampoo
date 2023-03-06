@@ -2,7 +2,7 @@
 <a href="https://shampoo-gentle-care.glitch.me/"> https://shampoo-gentle-care.glitch.me </a>
 
 <div align="center">
-  <img src="https://cdn.glitch.global/4c2d15d3-216a-4545-9f2e-6c3cc9987049/gentlecare.png">
+  <img src="src/pics/preview.png">
 </div>
 <br>
 
